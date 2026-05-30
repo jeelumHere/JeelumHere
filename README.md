@@ -22,7 +22,7 @@ const sharjeel = {
   role        : "Frontend Developer",
   skills      : ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React.js", "C++"],
   tools       : ["GitHub", "Netlify", "VS Code", "Git"],
-  portfolio   : "https://jeelumhere.netlify.app",
+  portfolio   : "https://frontendyportfolio.netlify.app/",
   focus       : "Crafting clean, responsive & pixel-perfect UIs",
   currentGoal : "Building projects that make a real difference 🌍",
   funFact     : "I turn Figma designs into reality — one component at a time ⚡"
@@ -93,16 +93,6 @@ const sharjeel = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeelumhere&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌱 What I'm Up To
 
 - 🔭 Currently building **React.js projects** with real-world use cases
@@ -116,10 +106,10 @@ const sharjeel = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00d4ff?style=for-the-badge)](https://jeelumhere.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-jeelumhere-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeelumhere)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeelumhere)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00d4ff?style=for-the-badge)](https://frontendyportfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-jeelumhere-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeelumHere)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syed-sharjeel-b231a7399)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedsharjeelahmed214@gmail.com)
 
 </div>
 
