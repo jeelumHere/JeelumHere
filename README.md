@@ -61,9 +61,10 @@ const sharjeel = {
 
 | 🚀 Project | 📝 Description | 🛠 Tech | 🔗 Live |
 |---|---|---|---|
-| [**Project Alpha**](https://github.com/jeelumhere) | A fully responsive modern web app | React, Tailwind | [Live ↗](https://jeelumhere.netlify.app) |
-| [**Project Beta**](https://github.com/jeelumhere) | Clean landing page with animations | HTML, CSS, JS | [Live ↗](https://jeelumhere.netlify.app) |
-| [**Project Gamma**](https://github.com/jeelumhere) | Data structures & algorithms | C++ | [Repo ↗](https://github.com/jeelumhere) |
+| [**Project Alpha**](https://github.com/jeelumhere) | A fully responsive modern TODO App | JavaScript, Tailwind | [Live ↗](https://task-manager-tasky.netlify.app/) |
+| [**Project Beta**](https://github.com/jeelumhere) | Clean landing page with animations | HTML, CSS, JS | [Live ↗](https://finpay-landing-page.netlify.app/) |
+| [**Project Gamma**](https://github.com/jeelumhere) | My Portfolio | HTML, CSS, ReactJS | [Live ↗](https://frontendyportfolio.netlify.app/) |
+| [**Project Delta**](https://github.com/jeelumhere) | Object Oriented Programming | C++ | [Repo ↗](https://github.com/jeelumHere/Rogeulike-Dengeon-OOPs-Project) |
 
 > 💡 *More projects pinned below — feel free to explore!*
 
