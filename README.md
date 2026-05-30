@@ -62,9 +62,9 @@ const sharjeel = {
 | 🚀 Project | 📝 Description | 🛠 Tech | 🔗 Live |
 |---|---|---|---|
 | [**Project Alpha**](https://github.com/jeelumhere) | A fully responsive modern TODO App | JavaScript, Tailwind | [Live ↗](https://task-manager-tasky.netlify.app/) |
-| [**Project Beta**](https://github.com/jeelumhere) | Clean landing page with animations | HTML, CSS, JS | [Live ↗](https://finpay-landing-page.netlify.app/) |
-| [**Project Gamma**](https://github.com/jeelumhere) | My Portfolio | HTML, CSS, ReactJS | [Live ↗](https://frontendyportfolio.netlify.app/) |
-| [**Project Delta**](https://github.com/jeelumhere) | Object Oriented Programming | C++ | [Repo ↗](https://github.com/jeelumHere/Rogeulike-Dengeon-OOPs-Project) |
+| [**Project Beta**](https://github.com/jeelumHere) | Clean landing page with animations | HTML, CSS, JS | [Live ↗](https://finpay-landing-page.netlify.app/) |
+| [**Project Gamma**](https://github.com/jeelumHere) | My Portfolio | HTML, CSS, ReactJS | [Live ↗](https://frontendyportfolio.netlify.app/) |
+| [**Project Delta**](https://github.com/jeelumHere) | Object Oriented Programming | C++ | [Repo ↗](https://github.com/jeelumHere/Rogeulike-Dengeon-OOPs-Project) |
 
 > 💡 *More projects pinned below — feel free to explore!*
 
@@ -74,15 +74,16 @@ const sharjeel = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeelumhere&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeelumhere&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" height="170"/>
+
+[![GitHub Repos](https://img.shields.io/badge/Repos-Visit%20My%20Work-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeelumHere?tab=repositories)
+<br/><br/>
+![Contribution Chart](https://ghchart.rshah.org/00d4ff/jeelumHere)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeelumhere&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeelumHere&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0)](https://git.io/streak-stats)
 
 </div>
 
