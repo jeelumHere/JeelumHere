@@ -19,13 +19,11 @@
 const sharjeel = {
   name        : "Syed Sharjeel Ahmed",
   username    : "jeelumhere",
-  role        : "Frontend Developer",
-  skills      : ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React.js", "C++"],
-  tools       : ["GitHub", "Netlify", "VS Code", "Git"],
+  role        : "Full Stack Developer",
+  skills      : ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React.js","NodeJs","MongoDb", "C++"],
+  tools       : ["GitHub", "Netlify", "Vercel", "Render", "Claude", "VS Code", "Git"],
   portfolio   : "https://frontendyportfolio.netlify.app/",
-  focus       : "Crafting clean, responsive & pixel-perfect UIs",
   currentGoal : "Building projects that make a real difference 🌍",
-  funFact     : "I turn Figma designs into reality — one component at a time ⚡"
 };
 ```
 
