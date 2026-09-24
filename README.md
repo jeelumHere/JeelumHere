@@ -63,6 +63,7 @@ const sharjeel = {
 | [**Project Beta**](https://github.com/jeelumHere) | Clean landing page with animations | HTML, CSS, JS | [Live ↗](https://finpay-landing-page.netlify.app/) |
 | [**Project Gamma**](https://github.com/jeelumHere) | My Portfolio | HTML, CSS, ReactJS | [Live ↗](https://frontendyportfolio.netlify.app/) |
 | [**Project Delta**](https://github.com/jeelumHere) | Object Oriented Programming | C++ | [Repo ↗](https://github.com/jeelumHere/Rogeulike-Dengeon-OOPs-Project) |
+| [**Project Epsilon**](https://github.com/jeelumHere) | NotesHub | MERN | [Live ↗](https://notes-hub-rosy.vercel.app/) |
 
 > 💡 *More projects pinned below — feel free to explore!*
 
