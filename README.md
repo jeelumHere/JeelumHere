@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=140&section=header&text=Syed%20Sharjeel%20Ahmed&fontSize=42&fontColor=00d4ff&fontAlignY=65&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20%7C%20UI%20Craftsman&descSize=16&descAlignY=85&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=140&section=header&text=Syed%20Sharjeel%20Ahmed&fontSize=42&fontColor=00d4ff&fontAlignY=65&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20React%20%7C%20UI%20Craftsman&descSize=16&descAlignY=85&descColor=a0aec0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Frontend+Developer+%7C+UI+Craftsman;HTML+%E2%80%A2+CSS+%E2%80%A2+Tailwind+%E2%80%A2+React.js;Building+Interfaces+People+Love+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;MERN+Developer+%7C+UI+Craftsman;EXPRESS+%E2%80%A2+Nodejs+%E2%80%A2+Tailwind+%E2%80%A2+React.js;Building+Softwares+People+Love+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
